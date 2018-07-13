@@ -3,6 +3,9 @@
 Building of **Decision Tree** upon any training dataset(Generic DT).
 
 ##### Examples handled here
+hello hello hi
+hi
+hey
 1. Predicting whether a user is likely to subscribe based upon
   * *Attributes*
     * Company Name (Categorial)
